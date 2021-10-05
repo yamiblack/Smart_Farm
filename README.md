@@ -38,7 +38,7 @@
 
 
 [member1]:https://github.com/JIW00NG
-[member2]:https://github.com/NamSu
+[member2]:https://github.com/namyounsu
 [member3]:https://github.com/yamiblack
 [modi_link]:https://global.luxrobo.com/
 [modi_description]:https://blog.naver.com/casmo815/221353414115
